@@ -16,7 +16,8 @@ list_flag = False
 
 app = CTk()
 
-app.geometry("1510x880")
+# app.geometry("1510x880")
+app.geometry("1400x750")
 set_appearance_mode('light')
 app.title('ML')
 app.pack_propagate(False)
